@@ -1,18 +1,14 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp> Hey there! 👋
-                <br>
-                I'm <b><a target="_blank" href="https://omar-t-ahmed.github.io/portfolio-site/">Omar</a></b>
+        <samp> Hey there! I'm <b><a target="_blank" href="https://omar-t-ahmed.github.io/portfolio-site/">Omar</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <br>
     Im a full stack software engineer from <b>NYC</b> 
-    <br>
   </samp>
 </p>
 
@@ -24,7 +20,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
 </p>
-<br />
 
 <!-- About Section -->
  # About me
