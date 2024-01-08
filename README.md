@@ -1,24 +1,23 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There 👋 !, I'm
-                <b><a target="_blank" href="https://omar-t-ahmed.github.io/portfolio-site/">Omar</a></b>
+        <samp> Hey there! 👋
+                <br>
+                I'm <b><a target="_blank" href="https://omar-t-ahmed.github.io/portfolio-site/">Omar</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
     <br>
-    「 Im a full stack software engineer from <b>NYC</b> 」
-    <br>
+    Im a full stack software engineer from <b>NYC</b> 
     <br>
   </samp>
 </p>
 
 <p align="center">
- <a href="https://alsiam.com" target="blank">
+ <a href="https://omar-t-ahmed.github.io/portfolio-site/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a>
  <a href="https://www.linkedin.com/in/omar-ahmed-205152224/" target="_blank">
@@ -33,10 +32,9 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
+ ✌️ &emsp; Software Engineer with a focus on Object Oriented Programming <br/><br/>
+ ❤️ &emsp; Love writing code and learning new technologies<br/><br/>
+ 📧 &emsp; Feel free to reach me at <b>omartahmed@gmail.com<b><br/>
 
 </p>
 
