@@ -29,7 +29,7 @@
   
  ✌ &emsp; Software Engineer with a focus on Object Oriented Programming <br/><br/>
  ❤️ &emsp; Love writing code and learning new technologies<br/><br/>
- ✍️ &emsp; Feel free to reach me at <b>I’m currently learning TypeScript and NextJS<b><br/>
+ ✍️ &emsp; I’m currently learning TypeScript and NextJS<br/>
  📧 &emsp; Feel free to reach me at <b>omartahmed@gmail.com<b><br/>
 
 </p>
