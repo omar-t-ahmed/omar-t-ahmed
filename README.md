@@ -1,16 +1,16 @@
 <!-- Intro  -->
-<h3 align="left">
+<h3 align="center">
   <samp> Hey there! I'm <b><a target="_blank" href="https://omar-t-ahmed.github.io/portfolio-site/">Omar</a></b> 👋 
   </samp>
 </h3>
 
-<p align="left"> 
+<p align="center"> 
   <samp>
     I'm a full stack software engineer from <b>NYC</b> 
   </samp>
 </p>
 
-<p align="center">
+<p style="margin-left: 20px;" align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=50C878&width=700&lines=Full+Stack+Development;Algorithm+Development;Cloud+Services+and+Integration;API+Development+and+Integration;..." alt="Typing SVG">
   </a>
@@ -29,6 +29,9 @@
 
 </p>
 
+<br/>
+<br/>
+
 ## 📫 Let's Connect!
 
 You can find me on various platforms. Don't hesitate to reach out. I'd love to connect!
@@ -39,7 +42,6 @@ You can find me on various platforms. Don't hesitate to reach out. I'd love to c
 Feel free to explore my repositories, contribute to my projects, and join me on my journey as a software engineer! 🤝
 
 
-<br/>
 <br/>
 <br/>
 
