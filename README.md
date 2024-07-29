@@ -13,12 +13,7 @@
 </p>
 
 <p align="center">
- <a href="https://omar-t-ahmed.github.io/portfolio-site/" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
- </a>
- <a href="https://www.linkedin.com/in/omar-ahmed-205152224/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
- </a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70707&width=700&lines=Computer+Science+%40+Stony+Brook+University;Full+Stack+Development;Algorithm +Development;Cloud+Services+and+Integration;API+Development+and+Integration;...)](https://git.io/typing-svg)
 </p>
 
 <!-- About Section -->
