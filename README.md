@@ -34,7 +34,6 @@
 </p>
 
 <br/>
-
 ## 📫 Let's Connect!
 
 You can find me on various platforms. Don't hesitate to reach out. I'd love to connect!
@@ -45,7 +44,6 @@ You can find me on various platforms. Don't hesitate to reach out. I'd love to c
 Feel free to explore my repositories, contribute to my projects, and join me on my journey as a software engineer! 🤝
 
 <br/>
-
 ## Languages and Tools
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
