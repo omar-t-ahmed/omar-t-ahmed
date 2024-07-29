@@ -12,11 +12,11 @@
   </samp>
 </p>
 
-<p align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=50C878&width=700&lines=Computer+Science+%40+Stony+Brook+University;Full+Stack+Development;Algorithm+Development;Cloud+Services+and+Integration;API+Development+and+Integration;..." alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=50C878&width=700&lines=Full+Stack+Development;Algorithm+Development;Cloud+Services+and+Integration;API+Development+and+Integration;..." alt="Typing SVG">
   </a>
-</p>
+</div>
 
 <!-- About Section -->
  # About me
