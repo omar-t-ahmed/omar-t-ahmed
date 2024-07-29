@@ -22,14 +22,17 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
-👩🏻‍💻 Software Engineer</br>
-🔭 I’m currently learning OpenAI</br>
-💬 Ask me about [Alf Ajr](https://www.alf-ajr.com/)</br>
-✨ Interests: Retrieval-Augmented Generation (RAG), Machine Learning & AI, Cloud Computing, Cooking, and Gym!</br>
+👩🏻‍💻  Software Engineer
+<br/>
+🔭  I’m currently learning OpenAI
+<br/>
+💬  Ask me about [Alf Ajr](https://www.alf-ajr.com/)
+<br/>
+✨  Interests: Retrieval-Augmented Generation (RAG), Machine Learning & AI, Cloud Computing, Cooking, and Gym!
+<br/>
 
 </p>
 
-<br/>
 <br/>
 
 ## 📫 Let's Connect!
@@ -41,8 +44,6 @@ You can find me on various platforms. Don't hesitate to reach out. I'd love to c
 
 Feel free to explore my repositories, contribute to my projects, and join me on my journey as a software engineer! 🤝
 
-
-<br/>
 <br/>
 
 ## Languages and Tools
