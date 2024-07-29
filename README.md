@@ -1,10 +1,10 @@
 <!-- Intro  -->
-<h3 align="center">
+<h3 align="left">
   <samp> Hey there! I'm <b><a target="_blank" href="https://omar-t-ahmed.github.io/portfolio-site/">Omar</a></b> 👋 
   </samp>
 </h3>
 
-<p align="center"> 
+<p align="left"> 
   <samp>
     I'm a full stack software engineer from <b>NYC</b> 
   </samp>
@@ -28,6 +28,16 @@
  📧 &emsp; Feel free to reach me at <b>omartahmed@gmail.com</b><br/>
 
 </p>
+
+## 📫 Let's Connect!
+
+You can find me on various platforms. Don't hesitate to reach out. I'd love to connect!
+
+- **LinkedIn**: [Omar Ahmed](https://www.linkedin.com/in/omar-ahmed-software-engineer)
+- **Email**: [omartahmed@gmail.com](mailto:omartahmed@gmail.com)
+
+Feel free to explore my repositories, contribute to my projects, and join me on my journey as a software engineer! 🤝
+
 
 <br/>
 <br/>
@@ -54,3 +64,5 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 
 <br/>
+
+
