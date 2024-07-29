@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a align="center" href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=50C878&width=400&lines=Full+Stack+Development;Algorithm+Development;Cloud+Services+and+Integration;API+Development+and+Integration;..." alt="Typing SVG">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=50C878&width=300&lines=Full+Stack+Development;Algorithm+Development;Cloud+Services+/+Integration;API+Development+/+Integration;..." alt="Typing SVG">
   </a>
 </p>
 
