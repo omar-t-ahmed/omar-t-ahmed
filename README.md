@@ -67,7 +67,7 @@ Feel free to explore my repositories, contribute to my projects, and join me on 
 <br/>
 
 
-[Omar Ahmed](<svg viewBox="0 0 115 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg viewBox="0 0 115 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
 <style>
 
@@ -126,6 +126,6 @@ svg {
   </text>
   </a>
 </svg>
-</svg>)
+</svg>
 
 
