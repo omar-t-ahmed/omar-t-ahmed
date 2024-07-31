@@ -10,11 +10,11 @@
   </samp>
 </p>
 
-<p align="justify">
+<div style="display: flex; justify-content: center;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=50C878&width=400&lines=Full+Stack+Development;Algorithm+Development;Cloud+Services+and+Integration;API+Development+and+Integration;..." alt="Typing SVG">
+    <img style="width: 100%; max-width: 600px;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=50C878&width=600&lines=Full+Stack+Development;Algorithm+Development;Cloud+Services+and+Integration;API+Development+and+Integration;..." alt="Typing SVG">
   </a>
-</p>
+</div>
 
 <!-- About Section -->
 ## About me 🤙
@@ -68,7 +68,7 @@ Feel free to explore my repositories, contribute to my projects, and join me on 
 
 ## 🔥 Github Stats
 
-  <a href="https://github.com/Giingu"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=omar-t-ahmed&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+  <a href="https://github.com/omar-t-ahmed"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=omar-t-ahmed&theme=whatsapp-dark&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 
 <br/>
 
