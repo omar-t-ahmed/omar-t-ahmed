@@ -28,7 +28,7 @@
 <br/>
 💬  Ask me about [Alf Ajr](https://www.alf-ajr.com/)
 <br/>
-✨  Interests: Retrieval-Augmented Generation (RAG), Machine Learning & AI, Cloud Computing, Cooking, and Gym!
+✨  Interests: RAG, Machine Learning & AI, Cloud Computing, Cooking, Brazilian Jiu-Jitsu, and Gym!
 <br/>
 
 </p>
