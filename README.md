@@ -12,7 +12,7 @@
 
 <div style="display: flex; justify-content: center;">
   <a href="https://git.io/typing-svg">
-    <img style="width: 100%; max-width: 600px;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=50C878&width=600&lines=Full+Stack+Development;Algorithm+Development;Cloud+Services+and+Integration;API+Development+and+Integration;..." alt="Typing SVG">
+    <img style="width: 100%; max-width: 600px;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=50C878&center=true&vCenter=true&width=600&lines=Full+Stack+Development;Algorithm+Development;Cloud+Services+and+Integration;API+Development+and+Integration;..." alt="Typing SVG">
   </a>
 </div>
 
