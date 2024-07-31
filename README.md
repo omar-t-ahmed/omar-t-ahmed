@@ -6,7 +6,7 @@
 
 <p align="center"> 
   <samp>
-    I'm a full stack software engineer from <b>NYC</b> 
+    I'm a software engineer from <b>NYC</b> 
   </samp>
 </p>
 
