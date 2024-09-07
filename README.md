@@ -71,5 +71,3 @@ Feel free to explore my repositories, contribute to my projects, and join me on 
 [![GitHub Streak](https://streak-stats.demolab.com?user=omar-t-ahmed&theme=whatsapp-dark&hide_border=true&mode=weekly&card_height=197)](https://git.io/streak-stats)
 
 <br/>
-
-
