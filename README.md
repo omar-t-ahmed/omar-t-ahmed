@@ -48,7 +48,7 @@ Feel free to explore my repositories, contribute to my projects, and join me on 
 
 ## Languages and Tools
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> &nbsp;
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/> &nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
